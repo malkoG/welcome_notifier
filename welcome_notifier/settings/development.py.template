@@ -1,0 +1,3 @@
+from welcome_notifier.settings.base import *
+
+DEBUG = True
